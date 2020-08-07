@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T12:52:33.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="eYtdUE-5bMP3UL49v12D" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-07T14:19:57.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="aDj9BOvS1pd412OaLnH8" version="13.6.0" type="github">
   <diagram id="N7UrJaPZCLSmNe3i5ui2" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,6 +103,12 @@
         </mxCell>
         <mxCell id="bZngsDdF6wW1DM1hWuv2-30" value="Cloud Container Repository" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="365" y="460" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bZngsDdF6wW1DM1hWuv2-31" value="Store container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bZngsDdF6wW1DM1hWuv2-32" value="Deploy Container" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="300" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
